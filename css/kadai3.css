@@ -14,8 +14,14 @@ h2{
 h3{
     color: blue;   
 }
+p1{
+    color: darkslateblue;
+}
 h4{
     color: yellow;
+}
+p2{
+    color: fuchsia;
 }
 h5{
     color:darkgoldenrod;
