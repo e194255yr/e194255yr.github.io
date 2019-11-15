@@ -1,0 +1,34 @@
+h1{
+    color:darkgoldenrod;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h2{
+    color:darkgoldenrod;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aqua;
+    
+}
+ol{
+    background-image: url("../images/03.jpg");
+}
+table{
+    background-color:yellow;
+}
+h3{
+    color: blue;   
+    font-family: "Impact";
+    text-align: center;
+    background-color: purple;
+}
+
+
+
+body{
+    background-image: url("../images/02.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
