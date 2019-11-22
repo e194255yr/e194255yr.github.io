@@ -1,0 +1,35 @@
+h1#ryoki{
+    color:darkgoldenrod;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aquamarine;
+}
+h1 {
+    color: cyan;
+    font-family: "Impact";
+    text-align: center;
+    background-color: orangered;
+}
+h2{
+    color:bisque;
+    font-family: "Impact";
+    text-align: center;
+    background-color:palevioletred;
+}
+h3{ 
+    color: cyan;
+    font-family: "Impact";
+    text-align: center;
+    background-color:black;
+}
+p{
+    color: aliceblue;
+}
+
+
+
+body{
+    background-image: url("../images/02.jpg");
+    background-repeat:repeat;
+    background-attachment: inherit;
+}
