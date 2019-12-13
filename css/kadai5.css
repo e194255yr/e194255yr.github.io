@@ -1,0 +1,85 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: beige;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+}
+
+div.menu{
+    width: 1000px;
+    height: 320px;
+    background-color: lightgray;
+    font-size:0;
+    margin-bottom: 20px;
+}
+
+div.left{
+    width: 250px;
+    height: 320px;
+    background-color: lightgray;
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 0;
+}
+
+div.menu1{
+    height: 100px;
+    width: 250px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    background-color: cornflowerblue;
+}
+
+div.menu2{
+    height: 100px;
+    width: 250px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    background-color: cornflowerblue;
+}
+
+div.menu3{
+    height: 100px;
+    width: 250px;
+    font-size: 10px;
+    background-color: cornflowerblue;
+}
+
+div.right{
+    background-color: darkgray;
+    display: inline-block;
+    vertical-align: top;
+    width: 700px;
+    height: 320px;
+    font-size: 0;
+}
+
+div.ga{
+    height: 300px;
+    width: 700px;
+    font-size: 30px;
+    vertical-align: top;
+    display: block;
+    background-color: lightblue;
+}
+
+div.bu{
+    height: 20px;
+    width: 700px;
+    font-size: 10px;
+    background-color: khaki;
+    display: block;
+    vertical-align: top;
+   
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: beige;
+    text-align: right;
+    font-size: 30px;
+}
