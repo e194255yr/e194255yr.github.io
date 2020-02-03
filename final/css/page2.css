@@ -1,0 +1,80 @@
+body{ 
+    background-image: url("../images/16.jpg");
+}
+div.title{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 30px;
+    justify-content: center;
+    border: 10px solid #ffffff;  
+}
+
+
+div.menu{
+    display: flex;
+    justify-content: center;
+}
+span.menuitem{
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-color: dodgerblue;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Impact";
+}
+
+div.sabu{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    justify-content: center;
+    border: 10px solid #ffffff;  
+}
+div.boxx{
+    justify-content: center;
+    display: flex; 
+}
+div.sya{
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    margin: 30px;
+    background-color: darkblue;
+}
+div.boxxx{
+    justify-content: center;
+    display: flex; 
+}
+div.setu{
+    width: 300px;
+    height: 90px;
+    padding: 30px;
+    margin: 30px;
+    background-color: lightblue;
+    font-size: 10px;
+}
+div.setuu{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    justify-content: center;
+    border: 10px solid #ffffff;  
+}
+div.boxxx{
+    justify-content: center;
+    display: flex; 
+}
+div.syaa{
+    width: 300px;
+    height: 200px;
+    padding: 30px;
+    margin: 20px;
+    background-color: inherit;
+}
