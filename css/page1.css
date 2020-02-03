@@ -1,0 +1,124 @@
+div.title{
+    background-color: greenyellow;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Impact";
+    margin-bottom: 20px;
+    justify-content: center;
+    border: 10px solid #ffffff;  
+}
+
+div.menuu{
+    display: flex;
+    justify-content: center;
+}
+span.menuitem{
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Impact";
+}
+
+div.menu{
+    justify-content: center;
+    border: 10px solid #ffffff; 
+    background-color: lightgray;
+    font-size:0;
+    margin-bottom: 20px;
+}
+
+div.left{
+    justify-content: center;
+    border: 10px solid #ffffff; 
+    
+    background-color: lightgray;
+    display: inline-block;
+    margin-right: 50px;
+    font-size: 0;
+}
+
+div.menu1{
+    height: 100px;
+    width: 250px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    background-color: cornflowerblue;
+}
+
+div.menu2{
+    height: 100px;
+    width: 250px;
+    font-size: 10px;
+    margin-bottom: 10px;
+    background-color: cornflowerblue;
+}
+
+div.menu3{
+    height: 100px;
+    width: 250px;
+    font-size: 10px;
+    background-color: cornflowerblue;
+}
+
+div.right{
+    background-color: darkgray;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0;
+    justify-content: center;
+    border: 10px solid #ffffff; 
+}
+
+div.ga{
+    height: 300px;
+    width: 700px;
+    font-size: 30px;
+    vertical-align: top;
+    display: block;
+    background-color: lightblue;
+}
+
+div.bu{
+    height: 20px;
+    width: 700px;
+    font-size: 10px;
+    background-color: khaki;
+    display: block;
+    vertical-align: top;
+   
+}
+
+div.footer{
+    justify-content: center;
+    border: 10px solid #ffffff;
+    background-color: beige;
+    text-align: left;
+    font-size: 10px;
+}
+div.setu{
+    justify-content: center;
+    border: 20px solid #cccc;
+    background-color: beige;
+    text-align: center;
+    font-size: 15px;
+}
+div.boxx{
+    justify-content: center;
+    display: flex; 
+}
+div.sya{
+    width: 300px;
+    height: 300px;
+    padding:20px;
+    margin: 20px;
+
+    
+}
+body{
+    background-image: url("../images/07.jpg");
+    background-repeat:repeat;
+    background-attachment: inherit;
+}
